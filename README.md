@@ -1,3 +1,4 @@
+   《OpenCV 计算机视觉编程攻略》第2版 相银初 译 人民邮电出版社
    These file contains material supporting the cookbook:  
    Computer Vision Programming using the OpenCV Library. 
    Second Edition
@@ -13,3 +14,5 @@
    and any consequent failure, is purely the responsibility of the user.
  
    Copyright (C) 2013 Robert Laganiere, www.laganiere.name
+
+> 注意：Python 代码量更少，调试更简单，添加了python实现。
