@@ -5,7 +5,7 @@ import cv2
 
 class HarrisDetector:
     '''Harris 角点检测器类'''
-    __cornerStrength = None    # Mat   角点强度图像
+    __cornerStrength = None     # Mat   角点强度图像
     __cornerTh = None           # Mat   阈值化角点图像
     __localMax = None           # Mat   局部最大值图像
     __neighbourhood = 3         # int   平滑导数的邻域尺寸 
